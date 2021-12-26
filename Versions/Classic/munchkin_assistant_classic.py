@@ -7,12 +7,12 @@ def charity():
     if cards <= ("5"):
         print ("Your turn is over")
     if cards >= ("5"):
-        cards2 = input ("Are you the lowest level person or do you tie? [Y / N] ")
+        cards2 = input ("Do you have the lowest level? [y/n] ")
         if cards2 == ("y"):
-            print ("Discard excess cards")
+            print ("Discard surplus")
             print ("Your turn is over")
         if cards2 == ("n"):
-            print ("Give the excess cards to the person with the lowest level or tied players.")
+            print ("Give the excendent to the players with lower level")
             print ("Your turn is over")
 def combat():
     print (" ")
