@@ -2,6 +2,7 @@
 Munchkin-Assistant is a programa to help you play Munchkin Game.
 
 Munchkin-Assistant is bassed in this scheme:
+
 ![Si se muestra este mensaje la imagen no se a cargado de forma correcta](schemes/Munchkin-Diagrama-Flujo2.jpg)
 
 Source: https://pruebadeconcepto.es/diagramas-de-flujo-e-iso-5807/
