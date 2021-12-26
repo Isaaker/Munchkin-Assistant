@@ -10,7 +10,12 @@ Source: https://pruebadeconcepto.es/diagramas-de-flujo-e-iso-5807/
 
 ## Installation
 1. Download the Phyton IDE: https://www.python.org/downloads/
-2. Download the software: Option 1: Press Code section and now select the .zip option, unzip the .zip / Option 2: clone the repositoriy from: https://github.com/Isaaker/Munchkin-Assistant.git
+2. Download the software:
+MacOS, Linux & Windows
+Option 1: Download the .zip in the Code Button.
+Option 2: Clone the repositorie (with GitHub Desktop)from: https://github.com/Isaaker/Munchkin-Assistant.git
+Option 3: Clone the repositorie (whith git): `git clone https://github.com/Isaaker/Munchkin-Assistant.git`
+
 
 ## ¿How to use the software?
 1. Open the IDE and press command + O or Ctrl. + O
@@ -24,3 +29,6 @@ I appreciate any help and you can leave your suggestions in the issues section.
 ## Help
 If do you like help write a e-mail to:
 hernan.marti.isaac@gmail.com
+
+## Note
+Munchkin Assistant is avaible for classic version, more version games will be available soon...
