@@ -18,7 +18,6 @@ Option 2: Clone the repositorie (with GitHub Desktop)from: https://github.com/Is
 Option 3: Clone the repositorie (whith git): `git clone https://github.com/Isaaker/Munchkin-Assistant.git`
 
 ### Command line
-
 1. Check if you have python installed:
 `python --version`
 2. If version is Python 3 or later go to the point 3. The program requires phyton 3, to update or install visit: https://www.python.org
