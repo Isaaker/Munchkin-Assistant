@@ -57,7 +57,6 @@ print ("License by: Creative Commons")
 print ("")
 print ("Initializing...")
 time.sleep(5)
-print ("-----------")
 while True:
     print ("Munchkin classic version")
     print ("A. Continue the game")
