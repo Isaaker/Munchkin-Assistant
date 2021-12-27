@@ -1,0 +1,9 @@
+Devices on which the program has been tested
+1. MacBook Pro (2021) ARM, macOS Monterey 12.1
+2. Raspberry Pi 1 Model B, Raspbian GNU/Linux (Version: Buster).
+3.Raspberry Pi 2  Model B(according to the system), Raspbian GNU/Linux (Version: Buster).
+
+Python versions tested
+1. Python 3.10.0
+Python versions not supported
+1. Python 2.7.16
