@@ -33,7 +33,7 @@ Option 3: Clone the repositorie (whith git): `git clone https://github.com/Isaak
 2. Find the directory where do you download the software or where do you have the software. And press open or similar.
 3. Now you have a screen with two windows a Shell and a window whit the code press the window whith the code and use Funcion 5.
 
-###Command line
+### Command line
 1. Go to the directory where do you have the software
 2. Use `cd Munchkin-Assistant/Versions`
 3. Go to the version who you like use `cd`
