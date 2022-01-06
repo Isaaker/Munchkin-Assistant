@@ -35,7 +35,7 @@ def combat():
         if combat2 == ("n"):
             print ("Pidele ayuda a otro jugador, solo puedes elejir una persona a si que piensalo bien")
             combat()
-def loot():
+def loop():
     print ("Coge una carta Dungeon y guardala en tu mano o ponla en juego ahora")
     charity()
 def findproblems():
@@ -62,6 +62,7 @@ while True:
     print ("Version clasica de Munchkin")
     print ("A. Continuar el juego")
     print ("B. Finalizar el juego")
+    loop = input ("Elije: ")
     if loop == ("a"):
         print ("Coge una carta")
         time.sleep(5)
