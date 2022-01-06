@@ -72,12 +72,12 @@ while True:
             combat()
         if ismonster == ("n"):
             curse = input ("¿Es una maldicion? [s/n] ")
-        if curse == ("s"):
-            print ("La maldicon te afecta")
-            findproblems()
-        if curse ("n"):
-            print ("Guarda la carta o ponla en juego ahora")
-            findproblems()                
+            if curse == ("s"):
+                print ("La maldicon te afecta")
+                findproblems()
+            if curse ("n"):
+                print ("Guarda la carta o ponla en juego ahora")
+                findproblems()                
     if loop == ("b"):
         print ("Gracias por usar nuestro programa")
         time.sleep(5)
